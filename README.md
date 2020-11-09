@@ -26,4 +26,4 @@
 ### My Experiences
 	This was my first exposure to C# and it was the first time in a year since I had coded anything, as such it was tough to learn the syntax and principles.
 
-### New American Buisness Association 
+### New American Business Association 
